@@ -15,7 +15,7 @@
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Seatwork-3)
+![](https://visit-counter.vercel.app/counter.png?page=Ceji-B/WD-Seatwork-3)
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## Overview
 
-Project demonstrate the coding of HTMl and CSS in different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output.
+This is a project coding of HTMl and CSS in different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output tasked to us by our Instructor.
 
 ### Key Components
 - Header Animation
@@ -57,6 +57,9 @@ Project demonstrate the coding of HTMl and CSS in different kinds of headers and
   - Active Effect
   - Multi Layer Domino Effect
   - Not Effect
+
+- Footer Aniamtion
+  - 
 
 
 ### Technology
