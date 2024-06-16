@@ -49,17 +49,20 @@
 
 ## Overview
 
-This is a project coding of HTMl and CSS in different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output tasked to us by our Instructor.
+This is a project coding of HTMl and CSS of different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output tasked to us by our Instructor. In addition, a lot of my designs are more on animation of moving objects and button hover effect.
 
 ### Key Components
 - Header Animation
   - Hover Effect
   - Active Effect
-  - Multi Layer Domino Effect
-  - Not Effect
+  - Moving Animation
+  - Circulating Effect
+  - Hover Effect on Background
 
 - Footer Aniamtion
-  - 
+  - Moving Animation
+  - Icon Hover
+
 
 
 ### Technology
